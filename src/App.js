@@ -6,7 +6,7 @@ import Projects from "./components/Projects";
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font xl:max-h-screen 2xl:max-h-screen">
+    <main className="text-gray-400 body-font bg-fixed">
       <Navbar />
       <About />
       <Projects />
