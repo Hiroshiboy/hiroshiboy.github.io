@@ -5,12 +5,18 @@
 html{
   height: 100%;
 }
-body {
+main {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* Photo by Mike Yukhtenko on Unsplash*/
+  background: url(./images/mike-yukhtenko-wfh8dDlNFOk-unsplash.jpg) no-repeat;
+  background-size: cover;
+  background-position: top;
+   
+  
 }
 
