@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hiroshiboy.github.io/static/css/main.10ab0171.chunk.css",
-    "main.js": "/hiroshiboy.github.io/static/js/main.78a014dd.chunk.js",
-    "main.js.map": "/hiroshiboy.github.io/static/js/main.78a014dd.chunk.js.map",
-    "runtime-main.js": "/hiroshiboy.github.io/static/js/runtime-main.a3e68f4e.js",
-    "runtime-main.js.map": "/hiroshiboy.github.io/static/js/runtime-main.a3e68f4e.js.map",
-    "static/js/2.f987d2d1.chunk.js": "/hiroshiboy.github.io/static/js/2.f987d2d1.chunk.js",
-    "static/js/2.f987d2d1.chunk.js.map": "/hiroshiboy.github.io/static/js/2.f987d2d1.chunk.js.map",
-    "static/js/3.5b5a809a.chunk.js": "/hiroshiboy.github.io/static/js/3.5b5a809a.chunk.js",
-    "static/js/3.5b5a809a.chunk.js.map": "/hiroshiboy.github.io/static/js/3.5b5a809a.chunk.js.map",
-    "index.html": "/hiroshiboy.github.io/index.html",
-    "static/css/main.10ab0171.chunk.css.map": "/hiroshiboy.github.io/static/css/main.10ab0171.chunk.css.map",
-    "static/js/2.f987d2d1.chunk.js.LICENSE.txt": "/hiroshiboy.github.io/static/js/2.f987d2d1.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/hiroshiboy.github.io/static/media/mike-yukhtenko-wfh8dDlNFOk-unsplash.5f69f7d7.jpg"
+    "main.css": "/static/css/main.e4a4d62d.chunk.css",
+    "main.js": "/static/js/main.78a014dd.chunk.js",
+    "main.js.map": "/static/js/main.78a014dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.764c1ab7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.764c1ab7.js.map",
+    "static/js/2.f987d2d1.chunk.js": "/static/js/2.f987d2d1.chunk.js",
+    "static/js/2.f987d2d1.chunk.js.map": "/static/js/2.f987d2d1.chunk.js.map",
+    "static/js/3.5b5a809a.chunk.js": "/static/js/3.5b5a809a.chunk.js",
+    "static/js/3.5b5a809a.chunk.js.map": "/static/js/3.5b5a809a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e4a4d62d.chunk.css.map": "/static/css/main.e4a4d62d.chunk.css.map",
+    "static/js/2.f987d2d1.chunk.js.LICENSE.txt": "/static/js/2.f987d2d1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/mike-yukhtenko-wfh8dDlNFOk-unsplash.5f69f7d7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3e68f4e.js",
+    "static/js/runtime-main.764c1ab7.js",
     "static/js/2.f987d2d1.chunk.js",
-    "static/css/main.10ab0171.chunk.css",
+    "static/css/main.e4a4d62d.chunk.css",
     "static/js/main.78a014dd.chunk.js"
   ]
 }
